@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{w2l6:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n),r=a("Wbzz"),l=a("yBb5");t.default=function(){return c.a.createElement(l.a,{title:"صفحه یافت نشد"},c.a.createElement("p",{className:"text-center mt-5"},"صفحه مورد نظر یافت نشد"),c.a.createElement(r.a,{to:"/"},"صفحه اصلی"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-504c1330e5370e372506.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{mTwM:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a),r=n("yBb5");t.default=function(){return c.a.createElement(r.a,{title:"محصولات"},c.a.createElement("p",{className:"text-center"}," محصولات "))}}}]);
+//# sourceMappingURL=component---src-pages-products-js-68abb84a2977861c4370.js.map
